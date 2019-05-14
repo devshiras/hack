@@ -8,7 +8,7 @@ import time
 import struct
 
 HOST = '192.168.0.104'
-PORT = 1991
+PORT = 4444
 
 
 def send_msg(sock, msg):
